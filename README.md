@@ -1,0 +1,1 @@
+# karvora-global-light-premium-v2.js
